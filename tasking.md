@@ -1,3 +1,0 @@
-![0_1502279529071_72611e7c-6673-438e-9b9d-6fba288d37e7-image.png](/bbs/assets/uploads/files/1502279529640-72611e7c-6673-438e-9b9d-6fba288d37e7-image.png) 
-测试用例：
-![0_1502279644248_26522418-59c3-460f-adbf-59e42c6f6771-image.png](/bbs/assets/uploads/files/1502279644429-26522418-59c3-460f-adbf-59e42c6f6771-image.png)
